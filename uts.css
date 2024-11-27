@@ -97,7 +97,7 @@ header {
  display: flex;
  justify-content: space-between;
  align-items: center;
- background: url('/uts/image/bg-the-covenant.jpeg') no-repeat;
+ background: url('/uts/bg-the-covenant.jpeg') no-repeat;
  background-size: cover;
  background-position: center;
  overflow: hidden;
